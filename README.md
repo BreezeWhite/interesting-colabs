@@ -5,5 +5,14 @@ easy-to-use colab scripts.
 
 ## Image
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/InformativeDrawings.ipynb) **[Informative-Drawings](https://github.com/carolineec/informative-drawings)**: Transform pictures into line-drawing style images.
+### Informative-Drawings
+[Github](https://github.com/carolineec/informative-drawings)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/InformativeDrawings.ipynb)
 
+Transform pictures into line-drawing style images.
+
+### Upscale Image
+[Github](https://github.com/idealo/image-super-resolution)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/UpscaleImage.ipynb)
+
+Increase the resolution of an image.
