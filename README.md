@@ -16,3 +16,9 @@ easy-to-use colab scripts.
 / [Github](https://github.com/idealo/image-super-resolution)
 )
 : Increase the resolution of an image.
+
+**AnimeGanV2** (
+[Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/AnimeGanV2.ipynb) 
+/ [Github](https://github.com/TachibanaYoshino/AnimeGANv2)
+)
+: Transform pictures into different anime style images.
