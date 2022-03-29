@@ -22,3 +22,11 @@ easy-to-use colab scripts.
 / [Github](https://github.com/TachibanaYoshino/AnimeGANv2)
 )
 : Transform pictures into different anime style images.
+
+
+**ArcaneGAN** (
+[Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/ArcaneGAN.ipynb) 
+/ [Github](https://github.com/Sxela/ArcaneGAN)
+)
+: Transform pictures into Arcane-like images.
+
