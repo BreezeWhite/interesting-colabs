@@ -13,3 +13,8 @@ easy-to-use colab scripts.
 | ArcaneGAN            | Transform pictures into Arcane-like images.           | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/ArcaneGAN.ipynb) / [Github](https://github.com/Sxela/ArcaneGAN) |
 | JoJoGAN              | Transform photos into various styles.                 | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/JoJoGAN.ipynb) / [Github](https://github.com/mchong6/JoJoGAN) |
 
+## Music
+
+|        Name          |                      Description                      | Source |
+|----------------------|-------------------------------------------------------|--------|
+| Danna-Sep            | Separate the given mixed audio into four tracks.      | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/DannaSep.ipynb) / [Github](https://github.com/yoyololicon/danna-sep) |
