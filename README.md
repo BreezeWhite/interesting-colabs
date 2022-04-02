@@ -18,3 +18,9 @@ easy-to-use colab scripts.
 |        Name          |                      Description                      | Source |
 |----------------------|-------------------------------------------------------|--------|
 | Danna-Sep            | Separate the given mixed audio into four sub-tracks.  | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/DannaSep.ipynb) / [Github](https://github.com/yoyololicon/danna-sep) |
+
+## Text-to-Image
+
+|        Name          |                      Description                                    | Source |
+|----------------------|---------------------------------------------------------------------|--------|
+| Diffusion 12M        | Given any text prompt, the model generates the coressponding image. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/TextToImageDiffusion12M.ipynb) / [Github](https://github.com/crowsonkb/v-diffusion-pytorch) |
