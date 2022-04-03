@@ -19,6 +19,7 @@ easy-to-use colab scripts.
 |        Name          |                      Description                      | Source |
 |----------------------|-------------------------------------------------------|--------|
 | Danna-Sep            | Separate the given mixed audio into four sub-tracks.  | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/DannaSep.ipynb) / [Github](https://github.com/yoyololicon/danna-sep) |
+| Demucs           | Separate the given mixed audio into four sub-tracks.  | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/Demucs.ipynb) / [Github](https://github.com/facebookresearch/demucs) |
 
 ## Text-to-Image
 
