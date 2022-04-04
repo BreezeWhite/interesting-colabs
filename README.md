@@ -31,4 +31,4 @@ easy-to-use colab scripts.
 
 |        Name          |                      Description                     | Source |
 |----------------------|------------------------------------------------------|--------|
-| MozillaTTS           | Transform the input sentence into speech.            | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/MozillaTTS.ipynb) / [Github](https://github.com/mozilla/TTS/) |
+| CoquiTTS             | Transform the input sentence into speech.            | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/CoquiTTS.ipynb) / [Github](https://github.com/coqui-ai/TTS/) |
