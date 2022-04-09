@@ -15,6 +15,7 @@ easy-to-use colab scripts.
 | AnycostGAN           | Adjust one's face apperance with various properties.  | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/AnycostGAN.ipynb) / [Github](https://github.com/mit-han-lab/anycost-gan) |
 | NeuralStyleTransfer  | Transfer the style of the original image to target image style. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/NeuralStyleTransfer.ipynb) / [Github](https://github.com/titu1994/Neural-Style-Transfer) |
 | Restormer            | Image restoration.                                    | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/Restormer.ipynb) / [Github](https://github.com/swz30/Restormer) |
+| DualStyleGAN         | Another image stylization colab.                      | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/DualStyleGAN.ipynb) / [Github](https://github.com/williamyang1991/DualStyleGAN) |
 
 ## Music
 
