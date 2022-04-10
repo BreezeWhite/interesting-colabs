@@ -8,6 +8,7 @@ easy-to-use colab scripts.
 |        Name          |                      Description                      | Source |
 |----------------------|-------------------------------------------------------|--------|
 | Informative Drawings | Transform pictures into line-drawing style images.    | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/InformativeDrawings.ipynb) / [Github](https://github.com/carolineec/informative-drawings) |
+| ArtLine              | Similar to above, but different style.                 | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/ArtLine.ipynb) / [Github](https://github.com/vijishmadhavan/ArtLine) |
 | Upscale Image        | Increase the resolution of an image.                  | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/UpscaleImage.ipynb) / [Github](https://github.com/idealo/image-super-resolution) |
 | AnimeGANv2           | Transform pictures into different anime style images. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/AnimeGanV2.ipynb) / [Github](https://github.com/TachibanaYoshino/AnimeGANv2) |
 | ArcaneGAN            | Transform pictures into Arcane-like images.           | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/ArcaneGAN.ipynb) / [Github](https://github.com/Sxela/ArcaneGAN) |
