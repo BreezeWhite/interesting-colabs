@@ -37,3 +37,10 @@ easy-to-use colab scripts.
 |        Name          |                      Description                     | Source |
 |----------------------|------------------------------------------------------|--------|
 | CoquiTTS             | Transform the input sentence into speech.            | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/CoquiTTS.ipynb) / [Github](https://github.com/coqui-ai/TTS/) |
+
+
+## Video
+
+|        Name          |                      Description                      | Source |
+|----------------------|-------------------------------------------------------|--------|
+| Make It Talk         | Make the image speak with the given text.             | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/MakeItTalk.ipynb) / [Github](https://github.com/yzhou359/MakeItTalk) |
