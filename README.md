@@ -41,6 +41,7 @@ easy-to-use colab scripts.
 
 ## Video
 
-|        Name          |                      Description                      | Source |
-|----------------------|-------------------------------------------------------|--------|
-| Make It Talk         | Make the image speak with the given text.             | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/MakeItTalk.ipynb) / [Github](https://github.com/yzhou359/MakeItTalk) |
+|        Name          |                      Description                                 | Source |
+|----------------------|------------------------------------------------------------------|--------|
+| Make It Talk         | Make the image speak with the given text.                        | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/MakeItTalk.ipynb) / [Github](https://github.com/yzhou359/MakeItTalk) |
+| LifespanSynthesis    | Synthesis one's face with different ages and render into a video.| [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/LifespanSynthesis.ipynb) / [Github](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis) |
