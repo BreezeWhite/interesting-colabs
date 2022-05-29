@@ -18,6 +18,7 @@ easy-to-use colab scripts.
 | Restormer            | Image restoration.                                    | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/Restormer.ipynb) / [Github](https://github.com/swz30/Restormer) |
 | DualStyleGAN         | Turn image into Pixal, cartoon, and more other styles | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/DualStyleGAN.ipynb) / [Github](https://github.com/williamyang1991/DualStyleGAN) |
 | Neural Painting      | Paint the image in different painting styles.         | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/NeuralPainting.ipynb) / [Github](https://github.com/jiupinjia/stylized-neural-painting) |
+| CLIPasso             | Converting an image to a sketch composed with the given number of lines. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/CLIPasso.ipynb) / [Github](https://github.com/yael-vinker/CLIPasso) |
 
 ## Music
 
