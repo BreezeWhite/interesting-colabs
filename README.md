@@ -32,6 +32,7 @@ easy-to-use colab scripts.
 |        Name          |                      Description                                    | Source |
 |----------------------|---------------------------------------------------------------------|--------|
 | Diffusion 12M        | Given any text prompt, the model generates the coressponding image. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/TextToImageDiffusion12M.ipynb) / [Github](https://github.com/crowsonkb/v-diffusion-pytorch) |
+| Stable Diffusion     | Text to image model provided by KerasCV.                            | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/StableDiffusion.ipynb) / [Source](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) |
 
 ## Text-to-Speech
 
