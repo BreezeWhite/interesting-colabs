@@ -30,9 +30,10 @@ easy-to-use colab scripts.
 ## Text-to-Image
 
 |        Name          |                      Description                                    | Source |
-|----------------------|---------------------------------------------------------------------|--------|
-| Diffusion 12M        | Given any text prompt, the model generates the coressponding image. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/TextToImageDiffusion12M.ipynb) / [Github](https://github.com/crowsonkb/v-diffusion-pytorch) |
-| Stable Diffusion     | Text to image model provided by KerasCV.                            | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/StableDiffusion.ipynb) / [Source](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) |
+|----------------------|-------------------------------------------------------------------------|--------|
+| Diffusion 12M        | Given any text prompt, the model generates the coressponding image.     | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/TextToImageDiffusion12M.ipynb) / [Github](https://github.com/crowsonkb/v-diffusion-pytorch) |
+| Stable Diffusion     | Text to image model provided by KerasCV.                                | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/StableDiffusion.ipynb) / [Source](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/) |
+| Flex Diffusers       | Extremely easy to use and highly adjustable text-to-image colab script. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/flex_diffusers.ipynb) [Source](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb) |
 
 ## Text-to-Speech
 
