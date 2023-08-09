@@ -20,6 +20,12 @@ easy-to-use colab scripts.
 | Neural Painting      | Paint the image in different painting styles.         | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/NeuralPainting.ipynb) / [Github](https://github.com/jiupinjia/stylized-neural-painting) |
 | CLIPasso             | Converting an image to a sketch composed with the given number of lines. | [Colab](https://colab.research.google.com/github/BreezeWhite/interesting-colabs/blob/main/scripts/CLIPasso.ipynb) / [Github](https://github.com/yael-vinker/CLIPasso) |
 
+## Image-to-3D
+
+|         Name         |                     Description                   | Source |
+|----------------------|---------------------------------------------------|--------|
+| PIFu                 | Reconstruct 3D human mesh from a single image     | [Colab](https://colab.research.google.com/github/BreezeWhite/PIFu/blob/master/colab.ipynb) / [Github](https://github.com/BreezeWhite/PIFu) |
+
 ## Music
 
 |        Name          |                      Description                      | Source |
