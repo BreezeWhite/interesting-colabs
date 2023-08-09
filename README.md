@@ -28,9 +28,10 @@ easy-to-use colab scripts.
 
 ## Image-to-3D
 
-|         Name         |                     Description                   | Source |
-|----------------------|---------------------------------------------------|--------|
-| PIFu                 | Reconstruct 3D human mesh from a single image     | [Colab](https://colab.research.google.com/github/BreezeWhite/PIFu/blob/master/colab.ipynb) / [Github](https://github.com/BreezeWhite/PIFu) |
+|         Name         |                             Description                          | Source |
+|----------------------|------------------------------------------------------------------|--------|
+| PIFu                 | Reconstruct 3D human mesh from a single image                    | [Colab](https://colab.research.google.com/github/BreezeWhite/PIFu/blob/master/colab.ipynb) / [Github](https://github.com/BreezeWhite/PIFu) |
+| PIFuHD               | Improved version of PIFu. 3D human reconstruction from an image. | [Colab](https://colab.research.google.com/github/BreezeWhite/pifuhd/blob/master/colab.ipynb) / [Github](https://github.com/BreezeWhite/pifuhd) |
 
 ## Music
 
